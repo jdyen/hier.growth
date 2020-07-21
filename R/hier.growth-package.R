@@ -83,6 +83,6 @@
 #' Stan Development Team (2020). RStan: the R interface to Stan. R package version 2.19.3. https://mc-stan.org
 #'
 #' Thomas, F.M., Yen, J.D.L. and Vesk, P.A. (2019) Using functional traits to predict species growth trajectories,
-#'   and cross‐validation to evaluate these models for ecological prediction. Ecology and Evolution, 9: 1554-1566.
+#'   and cross validation to evaluate these models for ecological prediction. Ecology and Evolution, 9: 1554-1566.
 #'
 NULL
